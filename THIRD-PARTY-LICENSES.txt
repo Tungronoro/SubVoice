@@ -1,0 +1,58 @@
+SubVoice - Thong bao ban quyen thu vien ben thu ba
+====================================================
+
+Phan mem nay dong goi kem cac tep chay (libvlc.dll, libvlccore.dll va thu muc
+plugins/) tu du an VLC media player, phat trien boi VideoLAN.
+
+- libvlc / libvlccore duoc phat hanh theo giay phep GNU Lesser General
+  Public License, phien ban 2.1 tro len (LGPL v2.1+).
+- Mot so plugin cua VLC duoc phat hanh theo GNU General Public License (GPL).
+- SubVoice CHI su dung cac tep nay o dang nhi phan (dynamic linking) qua
+  python-vlc, khong sua doi ma nguon cua VLC.
+
+Ban co quyen:
+- Tu thay the cac tep libvlc.dll / libvlccore.dll / plugins/ trong thu muc
+  cai dat SubVoice bang phien ban khac tuong thich, theo dieu khoan LGPL.
+- Tai ma nguon day du cua VLC tai: https://code.videolan.org/videolan/vlc
+- Tai VLC media player day du (ban doc lap, khong phu thuoc SubVoice) tai:
+  https://www.videolan.org/vlc/
+
+Toan van giay phep LGPL v2.1: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+Toan van giay phep GPL v2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+VLC va VideoLAN la thuong hieu cua VideoLAN non-profit organization.
+SubVoice khong lien ket chinh thuc voi VideoLAN.
+
+
+CAC THU VIEN MA NGUON MO KHAC DUOC DONG GOI KEM
+====================================================
+
+Phan mem nay cung dong goi (bundle) cac thu vien Python sau day ben trong file
+thuc thi (.exe). Ban quyen va giay phep cua tung thu vien van thuoc ve tac gia
+goc tuong ung; SubVoice chi su dung chung o dang thu vien (import), khong sua
+doi ma nguon cua chung.
+
+- pygame-ce (Community Edition)     - giay phep LGPL v2.1+
+  https://github.com/pygame-community/pygame-ce
+- python-vlc (Python bindings)      - giay phep LGPL v2.1+
+  https://github.com/oaubert/python-vlc
+- numpy                             - giay phep BSD 3-Clause
+  https://github.com/numpy/numpy
+- Pillow                            - giay phep HPND (tuong duong MIT)
+  https://github.com/python-pillow/Pillow
+- edge-tts                          - giay phep LGPL v3
+  https://github.com/rany2/edge-tts
+- srt (python library)              - giay phep MIT
+  https://github.com/cdown/srt
+- charset-normalizer                - giay phep MIT
+  https://github.com/Ousret/charset_normalizer
+- tinytag                           - giay phep MIT
+  https://github.com/tinytag/tinytag
+- customtkinter                     - giay phep MIT
+  https://github.com/TomSchimansky/CustomTkinter
+- CTkMessagebox                     - giay phep CC0-1.0 (Public Domain / khong
+  gioi han ban quyen)
+  https://github.com/Akascape/CTkMessagebox
+
+Toan van cac giay phep LGPL/BSD/MIT/ISC/HPND/CC0 neu tren co the tra cuu tai
+https://opensource.org/licenses hoac trang GitHub tuong ung cua tung du an.

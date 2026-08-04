@@ -1,0 +1,75 @@
+SOFTWARE LICENSE AGREEMENT
+============================
+
+SubVoice - Phần mềm đọc phụ đề bằng giọng AI
+Copyright (c) 2026 Nguyen Thanh Tung
+
+1. GRANT OF LICENSE
+Bạn được cấp quyền sử dụng phần mềm SubVoice cho mục đích cá nhân
+hoặc thương mại, trên bất kỳ số lượng máy tính nào.
+
+2. RESTRICTIONS
+- KHÔNG được phép reverse engineering, decompile, hoặc disassemble
+  phần mềm.
+- KHÔNG được phép phân phối lại file cài đặt mà không có sự cho phép
+  bằng văn bản của tác giả.
+- KHÔNG được phép sửa đổi, tạo tác phẩm phái sinh từ phần mềm.
+- KHÔNG được phép bán phần mềm dưới bất kỳ hình thức nào.
+
+Các hạn chế trên chỉ áp dụng cho mã nguồn GỐC của SubVoice do tác giả viết ra.
+Phần mềm này có đóng gói kèm một số thư viện mã nguồn mở của bên thứ ba (VLC,
+pygame-ce, python-vlc, librosa, numpy, edge-tts, v.v. — xem đầy đủ tại file
+THIRD-PARTY-LICENSES.txt đi kèm). Các hạn chế ở trên KHÔNG làm giảm bớt bất kỳ
+quyền nào mà giấy phép gốc của các thư viện đó (LGPL, MIT, BSD, ISC...) đã cấp
+cho người dùng, ví dụ quyền thay thế/relink các thư viện LGPL theo đúng điều
+khoản của giấy phép tương ứng.
+
+3. OWNERSHIP
+Phần mềm này là sở hữu của Nguyen Thanh Tung. Tất cả quyền không được
+cấp phép rõ ràng đều được bảo lưu.
+
+4. DISCLAIMER OF WARRANTY
+PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG CÓ BẢO HÀNH GÌ CẢ.
+TÁC GIẢ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ THIỆT HẠI NÀO PHÁT SINH
+TỪ VIỆC SỬ DỤNG PHẦN MỀM.
+
+5. TERMINATION
+Giấy phép này sẽ tự động chấm dứt nếu bạn vi phạm bất kỳ điều khoản nào.
+Khi đó, bạn phải ngừng sử dụng và xóa tất cả bản sao phần mềm.
+
+---
+
+**English version:**
+
+SubVoice - AI-powered subtitle reading software
+Copyright (c) 2026 Nguyen Thanh Tung
+
+1. GRANT OF LICENSE
+You are granted the right to use SubVoice software for personal or
+commercial purposes, on any number of computers.
+
+2. RESTRICTIONS
+- You may NOT reverse engineer, decompile, or disassemble the software.
+- You may NOT redistribute the installer without written permission.
+- You may NOT modify or create derivative works.
+- You may NOT sell the software in any form.
+
+These restrictions apply only to SubVoice's own original source code. This
+software bundles several third-party open-source libraries (VLC, pygame-ce,
+python-vlc, librosa, numpy, edge-tts, etc. — see the accompanying
+THIRD-PARTY-LICENSES.txt for the full list). The restrictions above do not
+diminish any rights granted to you by those libraries' own licenses (LGPL,
+MIT, BSD, ISC, etc.), such as the right to replace/relink LGPL-covered
+libraries under their respective license terms.
+
+3. OWNERSHIP
+This software is owned by Nguyen Thanh Tung. All rights not expressly
+granted are reserved.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE.
+
+5. TERMINATION
+This license terminates automatically if you violate any terms.
+You must then stop using and delete all copies.
