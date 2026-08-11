@@ -44,7 +44,7 @@ Download the latest version from the **Releases** page:
 
 ➡️ **https://github.com/Tungronoro/SubVoice/releases/latest**
 
-**Current Version:** `v1.0.0`
+**Current Version:** `v1.0.3`
 
 **Supported OS:** Windows 10 / Windows 11 (64-bit)
 
