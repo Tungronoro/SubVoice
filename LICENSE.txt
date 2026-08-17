@@ -1,75 +1,86 @@
 SOFTWARE LICENSE AGREEMENT
-============================
+===========================
 
-SubVoice - Phần mềm đọc phụ đề bằng giọng AI
+SubVoice - Phần mềm phát media và đọc phụ đề bằng giọng AI
 Copyright (c) 2026 Nguyen Thanh Tung
 
 1. GRANT OF LICENSE
-Bạn được cấp quyền sử dụng phần mềm SubVoice cho mục đích cá nhân
-hoặc thương mại, trên bất kỳ số lượng máy tính nào.
 
-2. RESTRICTIONS
-- KHÔNG được phép reverse engineering, decompile, hoặc disassemble
-  phần mềm.
-- KHÔNG được phép phân phối lại file cài đặt mà không có sự cho phép
-  bằng văn bản của tác giả.
-- KHÔNG được phép sửa đổi, tạo tác phẩm phái sinh từ phần mềm.
-- KHÔNG được phép bán phần mềm dưới bất kỳ hình thức nào.
+Bạn được cấp quyền sử dụng bản phát hành SubVoice cho mục đích cá nhân hoặc thương mại trên các máy tính thuộc quyền kiểm soát của bạn, theo các điều khoản trong giấy phép này.
 
-Các hạn chế trên chỉ áp dụng cho mã nguồn GỐC của SubVoice do tác giả viết ra.
-Phần mềm này có đóng gói kèm một số thư viện mã nguồn mở của bên thứ ba (VLC,
-pygame-ce, python-vlc, librosa, numpy, edge-tts, v.v. — xem đầy đủ tại file
-THIRD-PARTY-LICENSES.txt đi kèm). Các hạn chế ở trên KHÔNG làm giảm bớt bất kỳ
-quyền nào mà giấy phép gốc của các thư viện đó (LGPL, MIT, BSD, ISC...) đã cấp
-cho người dùng, ví dụ quyền thay thế/relink các thư viện LGPL theo đúng điều
-khoản của giấy phép tương ứng.
+2. RESTRICTIONS ON SUBVOICE ORIGINAL MATERIAL
 
-3. OWNERSHIP
-Phần mềm này là sở hữu của Nguyen Thanh Tung. Tất cả quyền không được
-cấp phép rõ ràng đều được bảo lưu.
+Đối với mã nguồn, thiết kế, tài liệu, biểu tượng, hình ảnh và các thành phần gốc do tác giả SubVoice tạo ra:
 
-4. DISCLAIMER OF WARRANTY
-PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG CÓ BẢO HÀNH GÌ CẢ.
-TÁC GIẢ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ THIỆT HẠI NÀO PHÁT SINH
-TỪ VIỆC SỬ DỤNG PHẦN MỀM.
+- Không được phân phối lại bộ cài hoặc bản đóng gói SubVoice nếu chưa được tác giả cho phép bằng văn bản.
+- Không được bán, cho thuê, cấp phép lại hoặc cung cấp lại phần mềm như một sản phẩm độc lập nếu chưa được cho phép.
+- Không được sửa đổi, tạo tác phẩm phái sinh hoặc tuyên bố quyền sở hữu đối với các thành phần gốc của SubVoice.
+- Không được sử dụng thương hiệu, tên, biểu tượng hoặc tài liệu SubVoice để gây nhầm lẫn về nguồn gốc sản phẩm.
 
-5. TERMINATION
-Giấy phép này sẽ tự động chấm dứt nếu bạn vi phạm bất kỳ điều khoản nào.
-Khi đó, bạn phải ngừng sử dụng và xóa tất cả bản sao phần mềm.
+Các hạn chế trên chỉ áp dụng cho thành phần gốc của SubVoice. Chúng không làm mất hoặc hạn chế bất kỳ quyền nào mà giấy phép của thư viện bên thứ ba cấp cho người dùng.
+
+3. THIRD-PARTY SOFTWARE
+
+Bản SubVoice protected có thể đóng gói VLC runtime, Python runtime, CustomTkinter, pygame-ce, python-vlc, NumPy, Pillow, Edge TTS, srt, Torch, Piper, VieNeu, V-TTS và các thư viện phụ thuộc khác. Các thành phần này vẫn thuộc về tác giả hoặc dự án tương ứng và chịu giấy phép riêng.
+
+Danh sách tham khảo, liên kết dự án và thông tin giấy phép của các thành phần bên thứ ba được cung cấp trong file THIRD-PARTY-LICENSES.txt đi kèm. Nếu điều khoản của giấy phép bên thứ ba cho phép thay thế hoặc liên kết lại một thư viện, các quyền đó vẫn được bảo lưu.
+
+SubVoice không phải là sản phẩm chính thức, sản phẩm liên kết hoặc sản phẩm được chứng nhận bởi VideoLAN, Microsoft, PyTorch, Piper, VieNeu, V-TTS hoặc các dự án bên thứ ba khác.
+
+4. OWNERSHIP
+
+Quyền sở hữu đối với các thành phần gốc của SubVoice thuộc về Nguyen Thanh Tung. Mọi quyền không được cấp rõ ràng trong giấy phép này đều được bảo lưu.
+
+5. DISCLAIMER OF WARRANTY
+
+PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" ("AS IS"), KHÔNG CÓ BẢO HÀNH RÕ RÀNG HAY NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở BẢO HÀNH VỀ KHẢ NĂNG THƯƠNG MẠI, SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG XÂM PHẠM.
+
+Trong phạm vi pháp luật cho phép, tác giả không chịu trách nhiệm về mất dữ liệu, gián đoạn, thiệt hại trực tiếp, gián tiếp hoặc hậu quả phát sinh từ việc sử dụng hoặc không thể sử dụng phần mềm.
+
+6. TERMINATION
+
+Giấy phép này tự động chấm dứt nếu bạn vi phạm các điều khoản áp dụng cho thành phần gốc của SubVoice. Khi giấy phép chấm dứt, bạn phải ngừng sử dụng và xóa các bản sao SubVoice mà bạn không có quyền tiếp tục sử dụng. Quyền và nghĩa vụ theo giấy phép của thư viện bên thứ ba vẫn được điều chỉnh bởi các giấy phép tương ứng.
 
 ---
 
-**English version:**
+ENGLISH VERSION
 
-SubVoice - AI-powered subtitle reading software
+SubVoice - Media playback and AI subtitle narration software
 Copyright (c) 2026 Nguyen Thanh Tung
 
 1. GRANT OF LICENSE
-You are granted the right to use SubVoice software for personal or
-commercial purposes, on any number of computers.
 
-2. RESTRICTIONS
-- You may NOT reverse engineer, decompile, or disassemble the software.
-- You may NOT redistribute the installer without written permission.
-- You may NOT modify or create derivative works.
-- You may NOT sell the software in any form.
+You are granted the right to use the released SubVoice software for personal or commercial purposes on computers under your control, subject to this license.
 
-These restrictions apply only to SubVoice's own original source code. This
-software bundles several third-party open-source libraries (VLC, pygame-ce,
-python-vlc, librosa, numpy, edge-tts, etc. — see the accompanying
-THIRD-PARTY-LICENSES.txt for the full list). The restrictions above do not
-diminish any rights granted to you by those libraries' own licenses (LGPL,
-MIT, BSD, ISC, etc.), such as the right to replace/relink LGPL-covered
-libraries under their respective license terms.
+2. RESTRICTIONS ON SUBVOICE ORIGINAL MATERIAL
 
-3. OWNERSHIP
-This software is owned by Nguyen Thanh Tung. All rights not expressly
-granted are reserved.
+For SubVoice original source code, design, documentation, icons, artwork, and other original materials created by the author:
 
-4. DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE.
+- You may not redistribute the SubVoice installer or packaged build without written permission from the author.
+- You may not sell, rent, sublicense, or repackage the software as an independent product without permission.
+- You may not modify, create derivative works from, or claim ownership of SubVoice original materials.
+- You may not use the SubVoice name, branding, icons, or documentation in a way that implies an unauthorized affiliation.
 
-5. TERMINATION
-This license terminates automatically if you violate any terms.
-You must then stop using and delete all copies.
+These restrictions apply only to SubVoice original materials. They do not remove or limit rights granted by the licenses of bundled third-party software.
+
+3. THIRD-PARTY SOFTWARE
+
+The protected SubVoice build may bundle VLC runtime, Python runtime, CustomTkinter, pygame-ce, python-vlc, NumPy, Pillow, Edge TTS, srt, Torch, Piper, VieNeu, V-TTS, and other dependencies. Those components remain the property of their respective authors and are governed by their own licenses.
+
+Project links and available license information are listed in THIRD-PARTY-LICENSES.txt. Where a third-party license grants rights to replace or relink a library, those rights remain available to the user.
+
+SubVoice is not an official, affiliated, or certified product of VideoLAN, Microsoft, PyTorch, Piper, VieNeu, V-TTS, or any other third-party project.
+
+4. OWNERSHIP
+
+SubVoice original materials are owned by Nguyen Thanh Tung. All rights not expressly granted are reserved.
+
+5. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+To the maximum extent permitted by law, the author shall not be liable for data loss, interruption, direct damages, indirect damages, or consequential damages arising from the use of or inability to use the software.
+
+6. TERMINATION
+
+This license terminates automatically if you violate the terms applicable to SubVoice original materials. Upon termination, you must stop using and delete copies of SubVoice that you are not otherwise entitled to retain. Rights and obligations under third-party licenses remain governed by those licenses.
