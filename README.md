@@ -2,18 +2,32 @@
 
 SubVoice is a video and audio player with dual-subtitle and AI voice narration support. It is designed for watching movies, listening to music, and creating narrated audio from subtitle content.
 
+## Screenshots
+
+### SubVoice Interface
+
+<p align="center">
+<img width="100%" alt="SubVoice interface" src="https://github.com/user-attachments/assets/49577a1d-b1c7-427a-9160-c6cb80f7ad28" />
+</p>
+
+### Keyboard Shortcuts
+
+<p align="center">
+<img width="820" alt="SubVoice keyboard shortcuts" src="https://github.com/user-attachments/assets/609f2a55-08ce-4f37-a821-2097b179a470" />
+</p>
+
 ## Table of Contents
 
 - [English](#subvoice)
   - [Features](#features)
-  - [Screenshots](#screenshots)
+  - [Video Demonstrations](#video-demonstrations)
   - [Download](#download)
   - [Installation](#installation)
   - [Quick Start](#quick-start)
 
 - [Tiếng Việt](#subvoice-ti%E1%BA%BFng-vi%E1%BB%87t)
   - [Tính năng](#t%C3%ADnh-n%C4%83ng)
-  - [Ảnh minh họa](#%E1%BA%A3nh-minh-h%E1%BB%8Da)
+  - [Video hướng dẫn](#video-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn)
   - [Tải xuống](#t%E1%BA%A3i-xu%E1%BB%91ng)
   - [Hướng dẫn cài đặt](#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t)
   - [Hướng dẫn sử dụng nhanh](#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng-nhanh)
@@ -42,21 +56,7 @@ SubVoice is a video and audio player with dual-subtitle and AI voice narration s
 
 - Open video or audio files directly from Windows.
 
-## Screenshots
-
-### SubVoice Interface
-
-<p align="center">
-<img width="100%" alt="SubVoice interface" src="https://github.com/user-attachments/assets/49577a1d-b1c7-427a-9160-c6cb80f7ad28" />
-</p>
-
-### Keyboard Shortcuts
-
-<p align="center">
-<img width="820" alt="SubVoice keyboard shortcuts" src="https://github.com/user-attachments/assets/609f2a55-08ce-4f37-a821-2097b179a470" />
-</p>
-
-### Video Demonstrations
+## Video Demonstrations
 
 Watch the [SubVoice YouTube playlist](https://www.youtube.com/playlist?list=PLYnMAMqLtnWE) for demonstrations and usage examples.
 
@@ -122,21 +122,7 @@ SubVoice là trình phát video và audio hỗ trợ phụ đề kép và giọn
 
 - Hỗ trợ mở file video hoặc audio trực tiếp từ Windows.
 
-## Ảnh minh họa
-
-### Giao diện SubVoice
-
-<p align="center">
-<img width="100%" alt="Giao diện SubVoice" src="https://github.com/user-attachments/assets/49577a1d-b1c7-427a-9160-c6cb80f7ad28" />
-</p>
-
-### Phím tắt
-
-<p align="center">
-<img width="820" alt="Phím tắt SubVoice" src="https://github.com/user-attachments/assets/609f2a55-08ce-4f37-a821-2097b179a470" />
-</p>
-
-### Video hướng dẫn
+## Video hướng dẫn
 
 Xem [playlist SubVoice trên YouTube](https://www.youtube.com/playlist?list=PLYnMAMqLtnWE) để theo dõi video giới thiệu và hướng dẫn sử dụng.
 
@@ -171,3 +157,11 @@ Mở SubVoice và chọn một file video hoặc audio để phát. Người dù
 Để sử dụng giọng đọc AI, mở **Cài đặt → Thư viện giọng đọc**, chọn engine và giọng đọc, sau đó điều chỉnh âm lượng hoặc tốc độ theo nhu cầu. Các phím tắt điều khiển được liệt kê trong **Cài đặt → Phím tắt**.
 
 Để mở file khác, sử dụng chức năng mở file hoặc kéo một file video/audio mới vào phần mềm. File đang phát sẽ được thay thế bằng file mới.
+
+---
+
+## Acknowledgements / Lời cảm ơn
+
+Cảm ơn bạn đã quan tâm và sử dụng SubVoice!
+
+**Created by Nguyễn Thanh Tùng**
