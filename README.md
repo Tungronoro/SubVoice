@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=%F0%9F%8E%99%EF%B8%8F%20SubVoice&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Reads%20Subtitles%20Aloud%20with%20Natural%20AI%20Voices%20%E2%80%A2%20Perfect%20Sync&descAlignY=61&descSize=18" alt="SubVoice Banner"/>
 
 <a href="https://github.com/Tungronoro/SubVoice">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=%F0%9F%8E%AC+Video+%2B+Audio+Player+with+Dual+Subtitles;+%F0%9F%97%A3%EF%B8%8F+Natural+AI+Voices+in+Perfect+Sync+with+Video;+%F0%9F%87%BB%F0%87%B3+Xem+phim+%E2%80%A2+Nghe+nh%E1%BA%A1c+%E2%80%A2+H%E1%BB%8Dc+ti%E1%BA%BFng+Anh+si%C3%AAu+hay" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=%F0%9F%8E%AC+Video+%2B+Audio+Player+with+Dual+Subtitles;+%F0%9F%97%A3%EF%B8%8F+Natural+AI+Voices+in+Perfect+Sync+with+Video;+%E2%96%B6+Xem+phim+%E2%80%A2+Nghe+nh%E1%BA%A1c+%E2%80%A2+H%E1%BB%8Dc+ti%E1%BA%BFng+Anh+si%C3%AAu+hay" alt="Typing SVG"/>
 </a>
 
 <br/>
