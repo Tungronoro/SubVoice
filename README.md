@@ -17,7 +17,6 @@
   </a>
   <img src="https://img.shields.io/badge/Windows-10_%2F_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/github/license/Tungronoro/SubVoice?style=for-the-badge&color=2EA043" alt="License"/>
 </p>
 
 <p>
