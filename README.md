@@ -1,3 +1,5 @@
+# SubVoice
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=%F0%9F%8E%99%EF%B8%8F%20SubVoice&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Reads%20Subtitles%20Aloud%20with%20Natural%20AI%20Voices%20%E2%80%A2%20Perfect%20Sync&descAlignY=61&descSize=18" alt="SubVoice Banner"/>
@@ -38,36 +40,24 @@
 
 </div>
 
-# SubVoice
 
 SubVoice is a video and audio player with dual-subtitle and AI voice narration support. It is designed for watching movies, listening to music, and creating narrated audio from subtitle content.
 
-## Screenshots
+> **Note V3.0.3:** The VieNeu-TTS voice engine (20 preset voices, plus voice-cloning from a reference audio file) is now fully bundled in the installer, so it works immediately after installation on a fresh PC **without an internet connection**. Edge TTS is an online service, so it still requires internet. See `Release_Notes_V3.0.3_GitHub.md` for details.
 
-### SubVoice Interface
-
-<p align="center">
-<img width="100%" alt="SubVoice interface" src="https://github.com/user-attachments/assets/49577a1d-b1c7-427a-9160-c6cb80f7ad28" />
-</p>
-
-### Keyboard Shortcuts
-
-<p align="center">
-<img width="820" alt="SubVoice keyboard shortcuts" src="https://github.com/user-attachments/assets/609f2a55-08ce-4f37-a821-2097b179a470" />
-</p>
 
 ## Table of Contents
 
 - [English](#subvoice)
   - [Features](#features)
-  - [Video Demonstrations](#video-demonstrations)
   - [Download](#download)
   - [Installation](#installation)
   - [Quick Start](#quick-start)
 - [Tiếng Việt](#subvoice-tiếng-việt)
   - [Tính năng](#tính-năng)
-  - [Video hướng dẫn](#video-hướng-dẫn)
   - [Tải xuống](#tải-xuống)
+  - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
+  - [Hướng dẫn sử dụng nhanh](#hướng-dẫn-sử-dụng-nhanh)
 
 ## Features
 
@@ -82,28 +72,25 @@ SubVoice is a video and audio player with dual-subtitle and AI voice narration s
 - Keyboard shortcuts for quick control.
 - Capture video frames as images.
 - Open video or audio files directly from Windows.
-
-## Video Demonstrations
-
-Watch the [SubVoice YouTube playlist](https://www.youtube.com/playlist?list=PLYnMAMqLtnWE) for demonstrations and usage examples.
+- Merge the narration cache into a complete MP3 file using the subtitle timeline; the MP3 may be longer than the video when subtitles continue beyond the video end.
 
 ## Download
 
-Open the [Releases](https://github.com/Tungronoro/SubVoice/releases) page and download the latest installer:
+Open the [Releases](../../releases) page and download the latest installer:
 
-```
+```text
 SubVoice_Setup.exe
 ```
 
 ## Installation
 
-1. Go to [Releases](https://github.com/Tungronoro/SubVoice/releases).
+1. Go to [Releases](../../releases).
 2. Download the latest `SubVoice_Setup.exe` file.
 3. Double-click the Setup file.
 4. Follow the on-screen instructions and select **Install**.
 5. Launch SubVoice from the Desktop shortcut or the Start Menu.
 
-If Windows displays a security warning, continue only when the file was downloaded from the author's official Release page.
+If Windows displays a security warning, continue only when the file was downloaded from the author’s official Release page.
 
 ## Quick Start
 
@@ -111,7 +98,7 @@ Open SubVoice and select a video or audio file to play. You can also open a file
 
 To use subtitles, open **Settings** and select Subtitle 1 or Subtitle 2. You can adjust the position, size, color, and synchronization timing of each subtitle.
 
-To use AI narration, open **Settings -> Voice Library**, choose an engine and voice, and adjust the narration volume or speed as needed. Keyboard shortcuts are listed in **Settings -> Shortcuts**.
+To use AI narration, open **Settings → Voice Library**, choose an engine and voice, and generate narration for Subtitle 1 until it reaches 100%. To export a complete MP3 file, open **Settings → Dubbed Voice Export**, adjust the narration speed, and select **Merge and export MP3**. The file is merged across the full timeline of the current subtitles. Keyboard shortcuts are listed in **Settings → Shortcuts**.
 
 To open another file, use the Open File function or drag a new video/audio file into the application. The currently playing file will be replaced by the new file.
 
@@ -134,22 +121,19 @@ SubVoice là trình phát video và audio hỗ trợ phụ đề kép và giọn
 - Hỗ trợ phím tắt điều khiển nhanh.
 - Chụp ảnh khung hình video.
 - Hỗ trợ mở file video hoặc audio trực tiếp từ Windows.
-
-## Video hướng dẫn
-
-Xem [playlist SubVoice trên YouTube](https://www.youtube.com/playlist?list=PLYnMAMqLtnWE) để theo dõi video giới thiệu và hướng dẫn sử dụng.
+- Ghép cache giọng lồng tiếng thành một file MP3 hoàn chỉnh theo timeline phụ đề; file có thể dài hơn video nếu phụ đề còn câu sau phần cuối video.
 
 ## Tải xuống
 
-Mở mục [Releases](https://github.com/Tungronoro/SubVoice/releases) và tải bộ cài đặt mới nhất:
+Mở mục [Releases](../../releases) và tải bộ cài đặt mới nhất:
 
-```
+```text
 SubVoice_Setup.exe
 ```
 
 ## Hướng dẫn cài đặt
 
-1. Truy cập [Releases](https://github.com/Tungronoro/SubVoice/releases).
+1. Truy cập [Releases](../../releases).
 2. Tải file `SubVoice_Setup.exe` mới nhất.
 3. Nhấp đúp vào file Setup.
 4. Làm theo hướng dẫn trên màn hình và chọn **Install**.
@@ -163,20 +147,13 @@ Mở SubVoice và chọn một file video hoặc audio để phát. Người dù
 
 Để sử dụng phụ đề, mở **Cài đặt** và chọn phụ đề 1 hoặc phụ đề 2. Người dùng có thể điều chỉnh vị trí, kích thước, màu sắc và thời gian đồng bộ của từng phụ đề.
 
-Để sử dụng giọng đọc AI, mở **Cài đặt → Thư viện giọng đọc**, chọn engine và giọng đọc, sau đó điều chỉnh âm lượng hoặc tốc độ theo nhu cầu. Các phím tắt điều khiển được liệt kê trong **Cài đặt → Phím tắt**.
+Để sử dụng giọng đọc AI, mở **Cài đặt → Thư viện giọng đọc**, chọn engine và giọng đọc, sau đó tạo giọng cho Phụ đề 1 đến khi hoàn tất 100%. Để xuất thành một file MP3 hoàn chỉnh, mở **Cài đặt → Xuất giọng lồng tiếng**, điều chỉnh tốc độ giọng đọc rồi chọn **Ghép và xuất MP3**. File được ghép theo toàn bộ timeline của phụ đề hiện tại. Các phím tắt điều khiển được liệt kê trong **Cài đặt → Phím tắt**.
 
 Để mở file khác, sử dụng chức năng mở file hoặc kéo một file video/audio mới vào phần mềm. File đang phát sẽ được thay thế bằng file mới.
 
----
+## Version History
 
-## Acknowledgements / Lời cảm ơn
+- **V3.0.3** — Bundled the VieNeu-TTS v3 Turbo ONNX model into the installer so the VieNeu voice engine works immediately after install on a fresh Windows machine with no internet required. Fixed the `'NoneType' object has no attribute 'write'` crash on the windowed EXE (stdout/stderr `None`) with a PyInstaller runtime hook. Bumped application version to `3.0.3`. See `Release_Notes_V3.0.3_GitHub.md` for the full changelog.
 
-Cảm ơn bạn đã quan tâm và sử dụng SubVoice!
 
-**Created by Nguyễn Thanh Tùng**
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-  <p>⭐ Nếu thấy SubVoice hữu ích, hãy cho repo một <b>Star</b> để ủng hộ tác giả nhé! ⭐</p>
-</div>
-
+- **V3.0.1** — Narration workflow, YouTube media handling, audio export quality, multi-monitor window behavior, and overall playback stability (see `Release_Notes_V3.0.1_GitHub.md`).
