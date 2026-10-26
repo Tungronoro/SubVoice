@@ -42,6 +42,26 @@
 
 SubVoice là phần mềm phát video và audio, có giọng đọc AI và tạo thuyết minh từ phụ đề.
 
+## 📸 Giao diện
+
+<p align="center">
+  <img src="screenshots/1.png" width="100%" alt="SubVoice - Giao diện chính"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/2.png" width="49%" alt="SubVoice - Màn hình 2"/>
+  <img src="screenshots/3.png" width="49%" alt="SubVoice - Màn hình 3"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/4.png" width="49%" alt="SubVoice - Màn hình 4"/>
+  <img src="screenshots/5.png" width="49%" alt="SubVoice - Màn hình 5"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/34.png" width="100%" alt="SubVoice - Màn hình 6"/>
+</p>
+
 ## Tải xuống
 
 Tải `SubVoice_Setup.exe` từ trang [Releases](https://github.com/Tungronoro/SubVoice/releases), sau đó chạy file cài đặt và làm theo hướng dẫn.
@@ -73,6 +93,26 @@ Dữ liệu người dùng được lưu ở thư mục gốc dữ liệu riêng
 ## SubVoice
 
 SubVoice is a video and audio player with AI voice narration and subtitle-based dubbed audio.
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" width="100%" alt="SubVoice - Main interface"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/2.png" width="49%" alt="SubVoice - Screen 2"/>
+  <img src="screenshots/3.png" width="49%" alt="SubVoice - Screen 3"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/4.png" width="49%" alt="SubVoice - Screen 4"/>
+  <img src="screenshots/5.png" width="49%" alt="SubVoice - Screen 5"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/34.png" width="100%" alt="SubVoice - Screen 6"/>
+</p>
 
 ## Download
 
