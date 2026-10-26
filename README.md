@@ -45,7 +45,7 @@
 
 ### Giới thiệu
 
-SubVoice là trình phát video và audio hỗ trợ giọng đọc AI. Phần mềm cho phép người dùng xem phim, nghe nhạc, sử dụng phụ đề và tạo lời đọc thuyết minh theo nội dung phụ đề.
+SubVoice là phần mềm phát video và audio, có giọng đọc AI và tạo thuyết minh từ phụ đề. Bạn có thể xem phim, nghe nhạc, dùng phụ đề và xuất audio thuyết minh.
 
 ### Trạng thái / bước tiếp theo
 
@@ -149,7 +149,7 @@ hiện tại trong **Cài đặt → Quản lý dữ liệu**, hoặc trong tệ
 
 ### Introduction
 
-SubVoice is a video and audio player with AI voice narration support. It allows users to watch videos, listen to music, use subtitles, and generate narrated audio from subtitle content.
+SubVoice is a video and audio player with AI voice narration. It lets you watch videos, listen to music, use subtitles, and export narrated audio.
 
 ### Features
 
