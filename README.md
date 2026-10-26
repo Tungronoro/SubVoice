@@ -49,18 +49,6 @@
 
 [Tải video demo](https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4)
 
-### Demo video
-
-<video src="https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4" controls width="100%"></video>
-
-[Tải video demo](https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4)
-
-### Demo video
-
-<video src="https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4" controls width="100%"></video>
-
-[Tải video demo](https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4)
-
 ### Giới thiệu
 
 SubVoice là trình phát video và audio hỗ trợ giọng đọc AI. Phần mềm cho phép người dùng xem phim, nghe nhạc, sử dụng phụ đề và tạo lời đọc thuyết minh theo nội dung phụ đề.
@@ -164,18 +152,6 @@ hiện tại trong **Cài đặt → Quản lý dữ liệu**, hoặc trong tệ
 ---
 
 ## English
-
-### Demo video
-
-<video src="https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4" controls width="100%"></video>
-
-[Download demo video](https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4)
-
-### Demo video
-
-<video src="https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4" controls width="100%"></video>
-
-[Download demo video](https://github.com/Tungronoro/SubVoice/releases/download/V3.0.8/SubVoice_Demo_V3.0.8.mp4)
 
 ### Demo video
 
