@@ -83,77 +83,77 @@ Nhấn vào cột **Demo** để nhảy tới đúng mốc thời gian của t�
 
 ### Video 1 — Thuyết minh tiếng Việt (Inglourious Basterds, 2009)
 
-[▶ Xem Video 1](https://www.youtube.com/watch?v=CeuPjz_mPtU)
+<a href="https://www.youtube.com/watch?v=CeuPjz_mPtU" target="_blank" rel="noopener noreferrer">▶ Xem Video 1</a>
 
 **Edge TTS**
 
 | Giọng | Mốc | Demo |
 |---|---|---|
-| Edge TTS NamMinh | 0:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=0) |
-| Edge TTS HoaiMy | 5:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=330) |
+| Edge TTS NamMinh | 0:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=0" target="_blank" rel="noopener noreferrer">▶</a> |
+| Edge TTS HoaiMy | 5:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=330" target="_blank" rel="noopener noreferrer">▶</a> |
 
 **VieNeu Turbo**
 
 | Giọng | Mốc | Demo |
 |---|---|---|
-| VieNeu Turbo Adam bựa | 11:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=660) |
-| VieNeu Turbo Adam | 16:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=990) |
-| VieNeu Turbo Đoan Trang | 22:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1320) |
-| VieNeu Turbo Hải Đăng | 27:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1650) |
-| VieNeu Turbo Kim Thanh | 33:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1980) |
-| VieNeu Turbo Mai Anh | 38:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2310) |
-| VieNeu Turbo Minh Triết | 44:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2640) |
-| VieNeu Turbo Mỹ Duyên | 49:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2970) |
-| VieNeu Turbo Ngọc Linh | 55:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3300) |
-| VieNeu Turbo Ngọc Trân | 1:00:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3630) |
-| VieNeu Turbo Phạm Tuyên | 1:06:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3960) |
-| VieNeu Turbo Quang Sơn | 1:11:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4290) |
-| VieNeu Turbo Quốc Tuấn | 1:17:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4620) |
-| VieNeu Turbo Quỳnh Anh | 1:22:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4950) |
-| VieNeu Turbo Thái Sơn | 1:28:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5280) |
-| VieNeu Turbo Thanh Bình | 1:33:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5610) |
-| VieNeu Turbo Thiện Minh | 1:39:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5940) |
-| VieNeu Turbo Tâm Đức | 1:44:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6270) |
-| VieNeu Turbo Thục Đoan | 1:50:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6600) |
-| VieNeu Turbo Thùy Dung | 1:55:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6930) |
-| VieNeu Turbo Trúc Ly | 2:01:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7260) |
-| VieNeu Turbo Xuân Vĩnh | 2:06:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7590) |
-| VieNeu Turbo Đức Trí | 2:12:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7920) |
-| VieNeu Turbo Minh Đức | 2:17:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8250) |
+| VieNeu Turbo Adam bựa | 11:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=660" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Adam | 16:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=990" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Đoan Trang | 22:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1320" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Hải Đăng | 27:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1650" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Kim Thanh | 33:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1980" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Mai Anh | 38:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2310" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Minh Triết | 44:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2640" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Mỹ Duyên | 49:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2970" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Ngọc Linh | 55:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3300" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Ngọc Trân | 1:00:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3630" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Phạm Tuyên | 1:06:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3960" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Quang Sơn | 1:11:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4290" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Quốc Tuấn | 1:17:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4620" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Quỳnh Anh | 1:22:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4950" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Thái Sơn | 1:28:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5280" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Thanh Bình | 1:33:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5610" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Thiện Minh | 1:39:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5940" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Tâm Đức | 1:44:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6270" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Thục Đoan | 1:50:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6600" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Thùy Dung | 1:55:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6930" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Trúc Ly | 2:01:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7260" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Xuân Vĩnh | 2:06:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7590" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Đức Trí | 2:12:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7920" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Turbo Minh Đức | 2:17:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8250" target="_blank" rel="noopener noreferrer">▶</a> |
 
 **VieNeu Nano**
 
 | Giọng | Mốc | Demo |
 |---|---|---|
-| VieNeu Nano Adam | 2:23:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8580) |
-| VieNeu Nano Ái Hân | 2:28:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8910) |
-| VieNeu Nano Anh Khôi | 2:34:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9240) |
-| VieNeu Nano Đức Trí | 2:39:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9570) |
-| VieNeu Nano Hữu Quân | 2:45:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9900) |
-| VieNeu Nano Mai Anh | 2:50:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10230) |
-| VieNeu Nano Mạnh Dũng | 2:56:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10560) |
-| VieNeu Nano Minh Quân | 3:01:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10890) |
-| VieNeu Nano Mỹ Duyên | 3:07:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11220) |
-| VieNeu Nano Trúc Ly | 3:12:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11550) |
-| VieNeu Nano Xuân Tiên | 3:18:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11880) |
+| VieNeu Nano Adam | 2:23:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8580" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Ái Hân | 2:28:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8910" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Anh Khôi | 2:34:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9240" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Đức Trí | 2:39:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9570" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Hữu Quân | 2:45:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9900" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Mai Anh | 2:50:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10230" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Mạnh Dũng | 2:56:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10560" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Minh Quân | 3:01:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10890" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Mỹ Duyên | 3:07:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11220" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Trúc Ly | 3:12:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11550" target="_blank" rel="noopener noreferrer">▶</a> |
+| VieNeu Nano Xuân Tiên | 3:18:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11880" target="_blank" rel="noopener noreferrer">▶</a> |
 
 **Piper**
 
 | Giọng | Mốc | Demo |
 |---|---|---|
-| Piper Single-low | 3:23:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12210) |
-| Piper Vais1000-medium | 3:29:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12540) |
-| Piper Vivos-x_low_0 | 3:34:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12870) |
+| Piper Single-low | 3:23:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12210" target="_blank" rel="noopener noreferrer">▶</a> |
+| Piper Vais1000-medium | 3:29:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12540" target="_blank" rel="noopener noreferrer">▶</a> |
+| Piper Vivos-x_low_0 | 3:34:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12870" target="_blank" rel="noopener noreferrer">▶</a> |
 
 **Vtts**
 
 | Giọng | Mốc | Demo |
 |---|---|---|
-| Vtts NF | 3:40:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13200) |
-| Vtts NM1 | 3:45:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13530) |
-| Vtts NM2 | 3:51:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13860) |
-| Vtts SF | 3:56:30 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14190) |
-| Vtts SM | 4:02:00 | [▶](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14520) |
+| Vtts NF | 3:40:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13200" target="_blank" rel="noopener noreferrer">▶</a> |
+| Vtts NM1 | 3:45:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13530" target="_blank" rel="noopener noreferrer">▶</a> |
+| Vtts NM2 | 3:51:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13860" target="_blank" rel="noopener noreferrer">▶</a> |
+| Vtts SF | 3:56:30 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14190" target="_blank" rel="noopener noreferrer">▶</a> |
+| Vtts SM | 4:02:00 | <a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14520" target="_blank" rel="noopener noreferrer">▶</a> |
 
 ## Sử dụng nhanh
 
