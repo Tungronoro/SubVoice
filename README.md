@@ -83,10 +83,8 @@ Dữ liệu người dùng được lưu ở thư mục gốc dữ liệu riêng
 
 ## Video demo
 
-| Video | Link |
-|-------|------|
-| [Thuyết Minh Tiếng Việt Demo](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) | [YouTube](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) |
-| [Thuyết Minh Tiếng Nước Ngoài Demo](https://www.youtube.com/watch?v=abLxefxIyZw&t) | [YouTube](https://www.youtube.com/watch?v=abLxefxIyZw&t) |
+- [Thuyết Minh Tiếng Việt Demo](https://www.youtube.com/watch?v=CeuPjz_mPtU&t)
+- [Thuyết Minh Tiếng Nước Ngoài Demo](https://www.youtube.com/watch?v=abLxefxIyZw&t)
 
 ### Thuyết Minh Tiếng Việt Demo
 
