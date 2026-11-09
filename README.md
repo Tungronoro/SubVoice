@@ -188,8 +188,3 @@ Download `SubVoice_Setup.exe` from the [Releases](https://github.com/Tungronoro/
 4. Export MP3 if needed.
 
 User data is stored in a separate data folder. See the path in **Settings → Data Management**.
-
-## Demo videos
-
-- [Vietnamese Dubbing Demo](https://www.youtube.com/watch?v=CeuPjz_mPtU&t)
-- [Foreign Languages Dubbing Demo](https://www.youtube.com/watch?v=abLxefxIyZw&t)
