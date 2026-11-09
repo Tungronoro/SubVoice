@@ -42,6 +42,21 @@
 
 SubVoice là phần mềm phát video và audio, có giọng đọc AI và tạo thuyết minh từ phụ đề.
 
+## Giao diện phần mềm
+
+<table>
+  <tr>
+    <td><img src="assets/images/1.png" alt="Giao diện chính" width="280"/></td>
+    <td><img src="assets/images/2.png" alt="Giao diện cài đặt" width="280"/></td>
+    <td><img src="assets/images/3.png" alt="Giao diện tạo giọng" width="280"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/4.png" alt="Giao diện quản lý dữ liệu" width="280"/></td>
+    <td><img src="assets/images/5.png" alt="Giao diện lịch sử" width="280"/></td>
+    <td><img src="assets/images/34.png" alt="Giao diện phát video" width="280"/></td>
+  </tr>
+</table>
+
 ## Tải xuống
 
 Tải `SubVoice_Setup.exe` từ trang [Releases](https://github.com/Tungronoro/SubVoice/releases), sau đó chạy file cài đặt và làm theo hướng dẫn.
@@ -70,8 +85,8 @@ Dữ liệu người dùng được lưu ở thư mục gốc dữ liệu riêng
 
 | Video | Link |
 |-------|------|
-| Thuyết Minh Tiếng Việt Demo | https://www.youtube.com/watch?v=CeuPjz_mPtU&t |
-| Thuyết Minh Tiếng Nước Ngoài Demo | https://www.youtube.com/watch?v=abLxefxIyZw&t |
+| [Thuyết Minh Tiếng Việt Demo](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) | [YouTube](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) |
+| [Thuyết Minh Tiếng Nước Ngoài Demo](https://www.youtube.com/watch?v=abLxefxIyZw&t) | [YouTube](https://www.youtube.com/watch?v=abLxefxIyZw&t) |
 
 ### Thuyết Minh Tiếng Việt Demo
 
@@ -144,21 +159,6 @@ Dữ liệu người dùng được lưu ở thư mục gốc dữ liệu riêng
 | [Tiếng Hàn Quốc - Nam (InJoon)](https://www.youtube.com/watch?v=abLxefxIyZw&t=4620s) |
 | [Tiếng Hàn Quốc - Nữ (SunHi)](https://www.youtube.com/watch?v=abLxefxIyZw&t=4950s) |
 
-## Giao diện phần mềm
-
-<table>
-  <tr>
-    <td><img src="assets/images/1.png" alt="Giao diện chính" width="300"/></td>
-    <td><img src="assets/images/2.png" alt="Giao diện cài đặt" width="300"/></td>
-    <td><img src="assets/images/3.png" alt="Giao diện tạo giọng" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/images/4.png" alt="Giao diện quản lý dữ liệu" width="300"/></td>
-    <td><img src="assets/images/5.png" alt="Giao diện lịch sử" width="300"/></td>
-    <td><img src="assets/images/34.png" alt="Giao diện phát video" width="300"/></td>
-  </tr>
-</table>
-
 ---
 
 # English
@@ -195,76 +195,5 @@ User data is stored in a separate data folder. See the path in **Settings → Da
 
 | Video | Link |
 |-------|------|
-| Vietnamese Dubbing Demo | https://www.youtube.com/watch?v=CeuPjz_mPtU&t |
-| Foreign Languages Dubbing Demo | https://www.youtube.com/watch?v=abLxefxIyZw&t |
-
-### Vietnamese Dubbing Demo
-
-| Voice |
-|-------|
-| [Edge TTS NamMinh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=0s) |
-| [Edge TTS HoaiMy](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=330s) |
-| [VieNeu Turbo Adam bựa](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=660s) |
-| [VieNeu Turbo Adam](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=990s) |
-| [VieNeu Turbo Đoan Trang](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1320s) |
-| [VieNeu Turbo Hải Đăng](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1650s) |
-| [VieNeu Turbo Kim Thanh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1980s) |
-| [VieNeu Turbo Mai Anh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2310s) |
-| [VieNeu Turbo Minh Triết](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2640s) |
-| [VieNeu Turbo Mỹ Duyên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2970s) |
-| [VieNeu Turbo Ngọc Linh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3300s) |
-| [VieNeu Turbo Ngọc Trân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3630s) |
-| [VieNeu Turbo Phạm Tuyên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3960s) |
-| [VieNeu Turbo Quang Sơn](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4290s) |
-| [VieNeu Turbo Quốc Tuấn](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4620s) |
-| [VieNeu Turbo Quỳnh Anh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4950s) |
-| [VieNeu Turbo Thái Sơn](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5280s) |
-| [VieNeu Turbo Thanh Bình](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5610s) |
-| [VieNeu Turbo Thiện Minh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5940s) |
-| [VieNeu Turbo Tâm Đức](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6270s) |
-| [VieNeu Turbo Thục Đoan](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6600s) |
-| [VieNeu Turbo Thùy Dung](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6930s) |
-| [VieNeu Turbo Trúc Ly](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7260s) |
-| [VieNeu Turbo Xuân Vĩnh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7590s) |
-| [VieNeu Turbo Đức Trí](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7920s) |
-| [VieNeu Turbo Minh Đức](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8250s) |
-| [VieNeu Nano Adam](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8580s) |
-| [VieNeu Nano Ái Hân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8910s) |
-| [VieNeu Nano Anh Khôi](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9240s) |
-| [VieNeu Nano Đức Trí](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9570s) |
-| [VieNeu Nano Hữu Quân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9900s) |
-| [VieNeu Nano Mai Anh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10230s) |
-| [VieNeu Nano Mạnh Dũng](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10560s) |
-| [VieNeu Nano Minh Quân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10890s) |
-| [VieNeu Nano Mỹ Duyên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11220s) |
-| [VieNeu Nano Trúc Ly](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11550s) |
-| [VieNeu Nano Xuân Tiên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11880s) |
-| [Piper Single-low](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12210s) |
-| [Piper Vais1000-medium](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12540s) |
-| [Piper Vivos-x_low_0](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12870s) |
-| [Vtts NF](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13200s) |
-| [Vtts NM1](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13530s) |
-| [Vtts NM2](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13860s) |
-| [Vtts SF](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14190s) |
-| [Vtts SM](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14520s) |
-
-### Foreign Languages Dubbing Demo
-
-| Voice |
-|-------|
-| [German - Male (Conrad)](https://www.youtube.com/watch?v=abLxefxIyZw&t=0s) |
-| [German - Female (Katja)](https://www.youtube.com/watch?v=abLxefxIyZw&t=330s) |
-| [Spanish - Male (Alvaro)](https://www.youtube.com/watch?v=abLxefxIyZw&t=660s) |
-| [Spanish - Female (Elvira)](https://www.youtube.com/watch?v=abLxefxIyZw&t=990s) |
-| [French - Male (Henri)](https://www.youtube.com/watch?v=abLxefxIyZw&t=1320s) |
-| [French - Female (Denise)](https://www.youtube.com/watch?v=abLxefxIyZw&t=1650s) |
-| [English - Male (Guy)](https://www.youtube.com/watch?v=abLxefxIyZw&t=1980s) |
-| [English - Female (Aria)](https://www.youtube.com/watch?v=abLxefxIyZw&t=2310s) |
-| [British English - Female (Sonia)](https://www.youtube.com/watch?v=abLxefxIyZw&t=2640s) |
-| [Japanese - Male (Keita)](https://www.youtube.com/watch?v=abLxefxIyZw&t=2970s) |
-| [Japanese - Female (Nanami)](https://www.youtube.com/watch?v=abLxefxIyZw&t=3300s) |
-| [Traditional Chinese (Taiwan) - Female (HsiaoChen)](https://www.youtube.com/watch?v=abLxefxIyZw&t=3630s) |
-| [Chinese - Male (Yunxi)](https://www.youtube.com/watch?v=abLxefxIyZw&t=3960s) |
-| [Chinese - Female (Xiaoxiao)](https://www.youtube.com/watch?v=abLxefxIyZw&t=4290s) |
-| [Korean - Male (InJoon)](https://www.youtube.com/watch?v=abLxefxIyZw&t=4620s) |
-| [Korean - Female (SunHi)](https://www.youtube.com/watch?v=abLxefxIyZw&t=4950s) |
+| [Vietnamese Dubbing Demo](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) | [YouTube](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) |
+| [Foreign Languages Dubbing Demo](https://www.youtube.com/watch?v=abLxefxIyZw&t) | [YouTube](https://www.youtube.com/watch?v=abLxefxIyZw&t) |
