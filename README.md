@@ -88,53 +88,183 @@ Dữ liệu người dùng được lưu ở thư mục gốc dữ liệu riêng
 
 ### Thuyết Minh Tiếng Việt Demo
 
-| Giọng |
-|-------|
-| [Edge TTS NamMinh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=0s) |
-| [Edge TTS HoaiMy](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=330s) |
-| [VieNeu Turbo Adam bựa](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=660s) |
-| [VieNeu Turbo Adam](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=990s) |
-| [VieNeu Turbo Đoan Trang](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1320s) |
-| [VieNeu Turbo Hải Đăng](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1650s) |
-| [VieNeu Turbo Kim Thanh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1980s) |
-| [VieNeu Turbo Mai Anh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2310s) |
-| [VieNeu Turbo Minh Triết](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2640s) |
-| [VieNeu Turbo Mỹ Duyên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2970s) |
-| [VieNeu Turbo Ngọc Linh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3300s) |
-| [VieNeu Turbo Ngọc Trân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3630s) |
-| [VieNeu Turbo Phạm Tuyên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3960s) |
-| [VieNeu Turbo Quang Sơn](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4290s) |
-| [VieNeu Turbo Quốc Tuấn](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4620s) |
-| [VieNeu Turbo Quỳnh Anh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4950s) |
-| [VieNeu Turbo Thái Sơn](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5280s) |
-| [VieNeu Turbo Thanh Bình](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5610s) |
-| [VieNeu Turbo Thiện Minh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5940s) |
-| [VieNeu Turbo Tâm Đức](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6270s) |
-| [VieNeu Turbo Thục Đoan](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6600s) |
-| [VieNeu Turbo Thùy Dung](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6930s) |
-| [VieNeu Turbo Trúc Ly](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7260s) |
-| [VieNeu Turbo Xuân Vĩnh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7590s) |
-| [VieNeu Turbo Đức Trí](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7920s) |
-| [VieNeu Turbo Minh Đức](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8250s) |
-| [VieNeu Nano Adam](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8580s) |
-| [VieNeu Nano Ái Hân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8910s) |
-| [VieNeu Nano Anh Khôi](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9240s) |
-| [VieNeu Nano Đức Trí](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9570s) |
-| [VieNeu Nano Hữu Quân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9900s) |
-| [VieNeu Nano Mai Anh](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10230s) |
-| [VieNeu Nano Mạnh Dũng](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10560s) |
-| [VieNeu Nano Minh Quân](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10890s) |
-| [VieNeu Nano Mỹ Duyên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11220s) |
-| [VieNeu Nano Trúc Ly](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11550s) |
-| [VieNeu Nano Xuân Tiên](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11880s) |
-| [Piper Single-low](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12210s) |
-| [Piper Vais1000-medium](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12540s) |
-| [Piper Vivos-x_low_0](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12870s) |
-| [Vtts NF](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13200s) |
-| [Vtts NM1](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13530s) |
-| [Vtts NM2](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13860s) |
-| [Vtts SF](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14190s) |
-| [Vtts SM](https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14520s) |
+<table>
+  <tr>
+    <th>Edge TTS</th>
+    <th>VieNeu Turbo</th>
+    <th>VieNeu Nano</th>
+    <th>Piper</th>
+    <th>Vtts</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=0s">Edge TTS NamMinh</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=660s">VieNeu Turbo Adam bựa</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8580s">VieNeu Nano Adam</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12210s">Piper Single-low</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13200s">Vtts NF</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=330s">Edge TTS HoaiMy</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=990s">VieNeu Turbo Adam</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8910s">VieNeu Nano Ái Hân</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12540s">Piper Vais1000-medium</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13530s">Vtts NM1</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1320s">VieNeu Turbo Đoan Trang</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9240s">VieNeu Nano Anh Khôi</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=12870s">Piper Vivos-x_low_0</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=13860s">Vtts NM2</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1650s">VieNeu Turbo Hải Đăng</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9570s">VieNeu Nano Đức Trí</a></td>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14190s">Vtts SF</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=1980s">VieNeu Turbo Kim Thanh</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=9900s">VieNeu Nano Hữu Quân</a></td>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=14520s">Vtts SM</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2310s">VieNeu Turbo Mai Anh</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10230s">VieNeu Nano Mai Anh</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2640s">VieNeu Turbo Minh Triết</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10560s">VieNeu Nano Mạnh Dũng</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=2970s">VieNeu Turbo Mỹ Duyên</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=10890s">VieNeu Nano Minh Quân</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3300s">VieNeu Turbo Ngọc Linh</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11220s">VieNeu Nano Mỹ Duyên</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3630s">VieNeu Turbo Ngọc Trân</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11550s">VieNeu Nano Trúc Ly</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=3960s">VieNeu Turbo Phạm Tuyên</a></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=11880s">VieNeu Nano Xuân Tiên</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4290s">VieNeu Turbo Quang Sơn</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4620s">VieNeu Turbo Quốc Tuấn</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=4950s">VieNeu Turbo Quỳnh Anh</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5280s">VieNeu Turbo Thái Sơn</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5610s">VieNeu Turbo Thanh Bình</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=5940s">VieNeu Turbo Thiện Minh</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6270s">VieNeu Turbo Tâm Đức</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6600s">VieNeu Turbo Thục Đoan</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=6930s">VieNeu Turbo Thùy Dung</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7260s">VieNeu Turbo Trúc Ly</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7590s">VieNeu Turbo Xuân Vĩnh</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=7920s">VieNeu Turbo Đức Trí</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=CeuPjz_mPtU&t=8250s">VieNeu Turbo Minh Đức</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Thuyết Minh Tiếng Nước Ngoài Demo
 
