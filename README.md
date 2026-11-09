@@ -193,7 +193,5 @@ User data is stored in a separate data folder. See the path in **Settings → Da
 
 ## Demo videos
 
-| Video | Link |
-|-------|------|
-| [Vietnamese Dubbing Demo](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) | [YouTube](https://www.youtube.com/watch?v=CeuPjz_mPtU&t) |
-| [Foreign Languages Dubbing Demo](https://www.youtube.com/watch?v=abLxefxIyZw&t) | [YouTube](https://www.youtube.com/watch?v=abLxefxIyZw&t) |
+- [Vietnamese Dubbing Demo](https://www.youtube.com/watch?v=CeuPjz_mPtU&t)
+- [Foreign Languages Dubbing Demo](https://www.youtube.com/watch?v=abLxefxIyZw&t)
